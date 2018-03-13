@@ -11,3 +11,7 @@
 * windows.onload() for addEventlistener
 * addToList() for createElement and add to html
 * SelectWhichToShow for hidden something
+
+## test/Untitled Test Suite.html
+* use SideeX to test web application
+* add-on for chrome, easy to record and playback
